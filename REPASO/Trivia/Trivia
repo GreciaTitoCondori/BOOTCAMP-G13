@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>DivertiCOVID</title>
+    <link href="proyect.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="presentacion">
+      <div class="Diverti">
+        <h2 class="Trivia">Trivia de Entretenimiento</h2>
+      </div>
+      <div class="contenedor">
+        <h1 class="titulo">DivertiCOVID</h1>
+      <p class="pregunta">¿Que tanto sabes sobre peliculas, series,
+        tv y novelas? <br>
+        PONTE A PRUEBA...
+      </p>
+      <br>
+      <input type="text" id="nombre" placeholder="Ingresa tu nombre" class="input" >
+      <a href="" id="button" class="boton" >Continuar</a>
+    </div>
+      </div>
+  </body>
+</html>
